@@ -88,7 +88,4 @@ Arquivo: `cypress/e2e/CadastroFalho.feature`
 ## Autor
 
 Luiz Eduardo
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
